@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\foundation8\foundation8.NETCore2.0\Smart.Platform.Diagnostics\Smart.Platform.Diagnostics.csproj" />
+  </ItemGroup>
+
+</Project>
